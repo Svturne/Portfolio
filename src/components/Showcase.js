@@ -43,13 +43,13 @@ const Showcase = () => {
           </Heading>
 
           <Heading as="h3" size="h3">
-            I'm a <BlueText>Frontend & Backend Developer</BlueText>
+            I'm a <BlueText>Fullstack Mobile Developer</BlueText>
           </Heading>
 
           <ParaText as="p" top="2rem" bottom="4rem">
-            Hello, my name is Mehdi and I am a front-end & Back-end developer
-            with 6 months of experience in creating and designing user-friendly
-            react native applications.
+            Hello, my name is Mehdi and I am a Fullstack Mobile Developer with 6
+            months of experience in creating and designing user-friendly react
+            native applications.
           </ParaText>
 
           <FlexContainer gap="20px" responsiveFlex>

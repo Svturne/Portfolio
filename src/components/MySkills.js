@@ -60,11 +60,11 @@ const MySkills = () => {
           </Heading>
 
           <ParaText top="2rem" bottom="1.5rem">
-            As a developer, I have a experience in front-end & back-end react
-            native development. I am proficient in JavaScript, React, HTML, and
-            CSS. My Experience in building responsive and dynamic applications
-            using React and Redux has allowed me to create engaging and
-            interactive applications.
+            As a developer, I have a experience in front-end & back-end
+            development. I am proficient in JavaScript, React, HTML, and CSS. My
+            Experience in building responsive and dynamic applications using
+            React and Redux has allowed me to create engaging and interactive
+            applications.
           </ParaText>
 
           <ParaText>

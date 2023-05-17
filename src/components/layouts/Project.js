@@ -52,12 +52,20 @@ const Project = ({ rowReverse }) => {
         <ParaText top="1.5rem" bottom="2rem">
           My groundbreaking medical application aims to simplify patient
           management for doctors by providing a comprehensive platform to
-          consolidate all important information. The application will allow
-          doctors to easily create detailed patient profiles, encompassing all
-          their personal and medical information. Furthermore, my application
-          will enable doctors to record each disease and visit associated with
-          the patient, accompanied by photos for each visit, in order to
-          facilitate ongoing disease monitoring.
+          consolidate all important information. The application leverages
+          advanced technologies to enhance functionality and security. I utilize
+          Express JS, a robust web application framework, to build a reliable
+          and efficient backend infrastructure. With authentication using
+          refresh tokens, the application ensures maximum security for patient
+          data. Additionally, the incorporation of QR codes streamlines the
+          patient login process, allowing them to authenticate themselves by
+          scanning their unique code received via email. React Native Navigation
+          enhances the user interface, enabling seamless navigation between
+          different screens. Deep linking further improves usability, allowing
+          users to directly access specific sections or features of the app.
+          With these technologies, my application not only simplifies patient
+          management but also provides doctors with a secure, efficient, and
+          user-friendly tool for comprehensive disease monitoring.
         </ParaText>
 
         <Button
